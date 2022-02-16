@@ -31,7 +31,7 @@ window.addEventListener("scroll", function () {
   }
 });
 
-let eventDate = new Date("Dec 31, 2021 23:59:59").getTime();
+let eventDate = new Date("Dec 31, 2022 23:59:59").getTime();
 
 let counter = setInterval(() => {
   let nowDate = new Date().getTime();
